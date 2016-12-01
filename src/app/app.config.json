@@ -1,0 +1,15 @@
+{
+	"appname": "BuyerApp",
+	"scope": "AdminUserReader BuyerAdmin BuyerReader BuyerUserReader CatalogReader DevCenterIntegrationProxyAdmin DevCenterMessageConfigAdmin DevCenterWebHookAdmin FullAccess",
+	"clientid": "0C75B00F-56BE-4F1D-9D01-D0C595AB0CE6",
+	"buyerid": "-N_sJ0m2o0KSuTfyAraakg",
+	"catalogid": "-N_sJ0m2o0KSuTfyAraakg",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
